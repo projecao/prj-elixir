@@ -1,0 +1,15 @@
+{
+  "name": "prj-elixir",
+  "version": "0.0.1",
+  "description": "Projeção Elixir Integration",
+  "main": "main.js",
+  "keywords": [
+    "Projeção",
+    "elixir"
+  ],
+  "author": "Antério Vieira",
+  "license": "MIT",
+  "dependencies": {
+    "laravel-elixir": "^6.0.0-15"
+  }
+}
