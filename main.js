@@ -1,5 +1,13 @@
 var Elixir = require('laravel-elixir');
 
 Elixir.ready(function(){
-  // update configs
+  
+  // Custom notifications
+  Elixir.Notification = require('./Notification').default;
+  
 });
+
+global.Prj = Elixir;
+
+module.exports = Prj;
+
