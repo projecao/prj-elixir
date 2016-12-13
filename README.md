@@ -1,3 +1,3 @@
 # prj-elixir
 
-An extension of laravel elixir to the projection group
+An extension of laravel elixir to the projeção group
