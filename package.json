@@ -3,6 +3,11 @@
   "version": "0.0.7",
   "description": "Projeção Elixir Integration",
   "main": "main.js",
+  "homepage": "https://github.com/projecao",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projecao/prj-elixir.git"
+  },
   "keywords": [
     "Projeção",
     "elixir"
